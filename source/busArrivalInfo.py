@@ -114,7 +114,6 @@ def main():
       print(f'"{targetStation}" 정류장에서 "{nextStationName[0]}" 정류장으로 가는 가장 가까운 {busNum} 버스는 "{arrival[0][0]}", 그 다음으로 가까운 {busNum} 버스는 "{arrival[0][1]}" 도착합니다.')
     elif stationValue == 2:
       print(f'"{targetStation}" 정류장에서 "{nextStationName[1]}" 정류장으로 가는 가장 가까운 {busNum} 버스는 "{arrival[1][1]}", 그 다음으로 가까운 {busNum} 버스는 "{arrival[1][1]}" 도착합니다.')
-6631
 
 if __name__ == '__main__':
     main()

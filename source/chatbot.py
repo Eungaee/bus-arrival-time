@@ -3,7 +3,7 @@ import map
 import discord
 from discord import app_commands
 
-token = "TOKEN"
+token = "MTA0NzM2ODQzMzEyNzQwMzU5MA.GVF2ad.q9VLXXP4kk0ml3vqqb44BjR7WZ5_wIcc_AUHjg"
 
 class myBot(discord.Client):
     def __init__(self, *args, **kwargs):
